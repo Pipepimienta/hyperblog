@@ -10,5 +10,5 @@ blog para curso git y github de platzi
 * Flujos de trabajo en Github
 * Creacion y comprension de Ramas 
 * Creado en mi paso por techcamp
-
+* incluye comando relevantes 
 
