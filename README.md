@@ -9,5 +9,6 @@ blog para curso git y github de platzi
 * Buenas parcticas 
 * Flujos de trabajo en Github
 * Creacion y comprension de Ramas 
+* Creado en mi paso por techcamp
 
 
