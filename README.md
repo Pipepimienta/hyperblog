@@ -11,4 +11,5 @@ blog para curso git y github de platzi
 * Creacion y comprension de Ramas 
 * Creado en mi paso por techcamp
 
+* incluye comando relevantes 
 
